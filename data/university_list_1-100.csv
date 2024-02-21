@@ -1,6 +1,6 @@
 qs_ranking,institution,focus,location,continent,year_established,private_public,type,strategy_start,strategy_end,filename
 1,Massachusetts Institute of Technology (MIT) ,CO,United States,North America,1861,private,technological,2022,,MIT-Strategic-Action-Plan
-2,University of Cambridge,FC,United Kingdom,Europe,1209,public,,,,
+2,University of Cambridge,FC,United Kingdom,Europe,1209,public,,,,University-Cambridge-Mission-Vision
 3,University of Oxford,FC,United Kingdom,Europe,1096,public,,2018,2024,Oxford-Strategic-Plan-2018-24
 7,ETH Zurich - Swiss Federal Institute of Technology,FO,Switzerland,Europe,1855,public,technological,2021,2024,ETH_SEP_21-24_EN_Web
 8,National University of Singapore (NUS),FC,Singapore,Asia,1980,public,,2019,2024,nus-global-strategy-2019
@@ -13,21 +13,21 @@ qs_ranking,institution,focus,location,continent,year_established,private_public,
 34,University of British Columbia,FC,Canada,North America,1908,public,,2018,2028,2018_UBC_Strategic_Plan_Full-20180425
 36,EPFL,FO,Switzerland,Europe,1969,public,technological,2021,2024,LEX-1.1.11
 37,Technical University of Munich,FO,Germany,Europe,1868,public,technological,2021,2030,TUM-Agenda_2030
-46,Kyoto University,FC,Japan,Asia,1897,public,,2018,,enaboutoperationdocuments01_pamphlet_e
+46,Kyoto University,FC,Japan,Asia,1897,public,,,,Kyoto-University_Operations-and-future-plans
 47,Delft University of Technology,CO,Netherlands,Europe,1842,public,technological,2022,2024,TU-Delft-Strategic-Priorities-2022-EN-200x200mm-v10 web
 47,The Chinese University of Hong Kong (CUHK),FC,Hong Kong SAR,Asia,1963,public,,2021,2025,strategic-plan-brochure-e
 53,University of Amsterdam,FC,Netherlands,Europe,1632,public,,2021,2026,inspiring-generation-uva-strategic-plan-uva-2021-2026
-54,Ludwig-Maximilians-University Munich,FC,Germany,Europe,1472,public,,,,
+54,Ludwig-Maximilians-University Munich,FC,Germany,Europe,1472,public,,,,LMU-University-of-Excellence
 56,KAIST - Korea Advanced Institute of Science & Technology,CO,South Korea,Asia,1971,public,technological,2018,2031,KAIST-Vision2031
-59,Sorbonne University,FC,France,Europe,1257,public,,,,
-61,KU Leuven,FC,Belgium,Europe,1425,private,,,,
+59,Sorbonne University,FC,France,Europe,1257,public,,2019,2024,Sorbonne-Strategic-Plan
+61,KU Leuven,FC,Belgium,Europe,1425,private,,2021,2025,KU-Leuven-Mission_Strategy
 65,Universiti Malaya (UM),FC,Malaysia,Asia,1905,public,,2021,2025,Pelan-Strategik-UM-2021-2025
 68,The University of Auckland,FC,New Zealand,Oceania,1883,public,,2020,2030,taumata-teitei-vision-2030-and-strategic-plan-2025
-69,National Taiwan University (NTU),FC,Taiwan,Asia,1928,public,,,,
+69,National Taiwan University (NTU),FC,Taiwan,Asia,1928,public,,,,National-Taiwan-University-ORD
 70,City University of Hong Kong,CO,Hong Kong SAR,Asia,1984,public,,2020,2025,SP_Booklet
 73,KTH Royal Institute of Technology ,CO,Sweden,Europe,1827,public,technological,2024,2028,KTH_Vision_Mal_EN
 79,Korea University,FC,South Korea,Asia,1905,private,,2020,2021,Korea_University_SDG
-80,Osaka University,FC,Japan,Asia,1724,public,,,2027,03_OUMP
+80,Osaka University,FC,Japan,Asia,1724,public,,2021,,Osaka-University-Vision-2021
 81,"Trinity College Dublin, The University of Dublin",FC,Ireland,Europe,1592,public,,2020,2025,trinity-strategy
 84,University of Birmingham,FC,United Kingdom,Europe,1825,public,,2020,2030,birmingham-2030-strategic-framework-accessible
 85,Lund University,FC,Sweden,Europe,1666,public,,2017,2026,Lund-University_strategic-plan
@@ -35,9 +35,9 @@ qs_ranking,institution,focus,location,continent,year_established,private_public,
 87,Lomonosov Moscow State University,FC,Russia,Europe,1755,public,,,,
 87,Ruprecht-Karls-University Heidelberg,FO,Germany,Europe,1386,public,,2022,2026,Heidelberg-University-Strategic-Growth-Action-Plan-2022-2026
 91,Tokyo Institute of Technology (Tokyo Tech),CO,Japan,Asia,1881,public,technological,2018,2023,Tokyo-Tech-strategic-plan-2018
-91,University of Zurich,FC,Switzerland,Asia,,,,,,
-93,Universidad Nacional Autónoma de México (UNAM),FC,Mexico,North America,,,,,,
-95,University of St Andrews,FO,United Kingdom,Europe,,,,,,
-95,Universidad de Buenos Aires (UBA),FC,Argentina,South America,,,,,,
-98,Freie Universitaet Berlin,FC,Germany,Europe,,,,,,
-100,Pohang University of Science And Technology (POSTECH),FO,South Korea,Asia,,,,,,
+91,University of Zurich,FC,Switzerland,Asia,1833,public,,2019,,UZH_Strategic_Principles
+93,Universidad Nacional Autonoma de Mexico (UNAM),FC,Mexico,North America,1551,public,,,,
+95,University of St Andrews,FO,United Kingdom,Europe,1413,public,,2022,2027,university-strategy-2022-2027
+95,Universidad de Buenos Aires (UBA),FC,Argentina,South America,1821,public,,,,
+98,Freie Universitaet Berlin,FC,Germany,Europe,1948,public,,2021,2025,Strategiepapier_FU_2025_deutsch_english_final_korr
+100,Pohang University of Science And Technology (POSTECH),FO,South Korea,Asia,1986,private,technological,2019,,POSTECH-Vision
