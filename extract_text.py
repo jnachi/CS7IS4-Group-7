@@ -3,6 +3,8 @@
 Extract text from PDF files in an input directory and write the raw text into
 TXT files in the output directory
 
+NOTE: Output is encoded as utf-8
+
 @author: K. Nolle
 """
 
@@ -16,7 +18,7 @@ output_dir = "./data/raw-txt"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
     
-# Extract text from PDFs
+# Extract text from PDFs and write to TXT
 for pdf_filename in os.listdir(input_dir):
     print(f"Extracting text from {pdf_filename}")
     
@@ -31,22 +33,3 @@ for pdf_filename in os.listdir(input_dir):
         for page in reader.pages:
             text = page.extract_text() + "\n"
             output_file.write(text.encode('utf-8', 'replace'))
-
-
-"""
-with open(args.output, 'w', encoding='ascii') as output_file:
-    if args.header is not None:
-        output_file.write(args.header + "\n")
-            
-    # Load the TFLite model and allocate tensors.
-    interpreter =  tflite.Interpreter(model_path=args.model_name + '.tflite')
-    interpreter.allocate_tensors()
-
-    # Get input and output tensors.
-    input_details = interpreter.get_input_details()
-    output_details = interpreter.get_output_details()
-
-    
-
-
-"""
