@@ -1,0 +1,43 @@
+qs_ranking,institution,focus,location,continent,year_established,private_public,type,strategy_start,strategy_end,filename
+1,Massachusetts Institute of Technology (MIT) ,CO,United States,North America,1861,private,technological,2022,,MIT-Strategic-Action-Plan.pdf
+2,University of Cambridge,FC,United Kingdom,Europe,1209,public,,,,
+3,University of Oxford,FC,United Kingdom,Europe,1096,public,,2018,2024,Oxford-Strategic-Plan-2018-24.pdf
+7,ETH Zurich - Swiss Federal Institute of Technology,FO,Switzerland,Europe,1855,public,technological,2021,2024,ETH_SEP_21-24_EN_Web.pdf
+8,National University of Singapore (NUS),FC,Singapore,Asia,1980,public,,2019,2024,nus-global-strategy-2019.pdf
+12,University of Pennsylvania,FC,United States,North America,1740,private,,2023,,iPaP.pdf
+12,University of Pennsylvania,FC,United States,North America,1740,private,medical,2023,2028,PennMedicineStrategicPlanPDFInteractivev9.pdf
+17,Princeton University,CO,United States,North America,1746,private,,2016,,princetonstrategicplanframework2016.pdf
+25,Tsinghua University,FC,China (Mainland),Asia,1911,public,,,,
+26,"Nanyang Technological University, Singapore (NTU)",FC,Singapore,Asia,1981,public,technological,2021,2025,ntu-2025-strategy.pdf
+26,The University of Hong Kong,FC,Hong Kong SAR,Asia,1887,public,,2016,2025,University-Hong-Kong-2016-2025.pdf
+34,University of British Columbia,FC,Canada,North America,1908,public,,2018,2028,2018_UBC_Strategic_Plan_Full-20180425.pdf
+36,EPFL,FO,Switzerland,Europe,1969,public,technological,2021,2024,LEX-1.1.11.pdf
+37,Technical University of Munich,FO,Germany,Europe,1868,public,technological,2021,2030,TUM-Agenda_2030.pdf
+46,Kyoto University,FC,Japan,Asia,1897,public,,2018,,enaboutoperationdocuments01_pamphlet_e.pdf
+47,Delft University of Technology,CO,Netherlands,Europe,1842,public,technological,2022,2024,TU-Delft-Strategic-Priorities-2022-EN-200x200mm-v10 web.pdf
+47,The Chinese University of Hong Kong (CUHK),FC,Hong Kong SAR,Asia,1963,public,,2021,2025,strategic-plan-brochure-e.pdf
+53,University of Amsterdam,FC,Netherlands,Europe,1632,public,,2021,2026,inspiring-generation-uva-strategic-plan-uva-2021-2026.pdf
+54,Ludwig-Maximilians-University Munich,FC,Germany,Europe,1472,public,,,,
+56,KAIST - Korea Advanced Institute of Science & Technology,CO,South Korea,Asia,1971,public,technological,2018,2031,KAIST-Vision2031.pdf
+59,Sorbonne University,FC,France,Europe,1257,public,,,,
+61,KU Leuven,FC,Belgium,Europe,1425,private,,,,
+65,Universiti Malaya (UM),FC,Malaysia,Asia,1905,public,,2021,2025,Pelan-Strategik-UM-2021-2025.pdf
+68,The University of Auckland,FC,New Zealand,Oceania,1883,public,,2020,2030,taumata-teitei-vision-2030-and-strategic-plan-2025.pdf
+69,National Taiwan University (NTU),FC,Taiwan,Asia,1928,public,,,,
+70,City University of Hong Kong,CO,Hong Kong SAR,Asia,1984,public,,2020,2025,SP_Booklet.pdf
+73,KTH Royal Institute of Technology ,CO,Sweden,Europe,,,,,,
+79,Korea University,FC,South Korea,Asia,,,,,,
+80,Osaka University,FC,Japan,Asia,,,,,,
+81,"Trinity College Dublin, The University of Dublin",FC,Ireland,Europe,,,,,,
+84,University of Birmingham,FC,United Kingdom,Europe,,,,,,
+85,Lund University,FC,Sweden,Europe,,,,,,
+85,Universidade de São Paulo,FC,Brazil,South America,,,,,,
+87,Lomonosov Moscow State University,FC,Russia,Europe,,,,,,
+87,Ruprecht-Karls-Universität Heidelberg,FO,Germany,Europe,,,,,,
+91,Tokyo Institute of Technology (Tokyo Tech),CO,Japan,Asia,,,,,,
+91,University of Zurich,FC,Switzerland,Asia,,,,,,
+93,Universidad Nacional Autónoma de México (UNAM),FC,Mexico,North America,,,,,,
+95,University of St Andrews,FO,United Kingdom,Europe,,,,,,
+95,Universidad de Buenos Aires (UBA),FC,Argentina,South America,,,,,,
+98,Freie Universitaet Berlin,FC,Germany,Europe,,,,,,
+100,Pohang University of Science And Technology (POSTECH),FO,South Korea,Asia,,,,,,
