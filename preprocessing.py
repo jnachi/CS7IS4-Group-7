@@ -11,13 +11,14 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 nltk.download('wordnet')
 nltk.download('omw-1.4')
+import re
 
 # stemmer = PorterStemmer()
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 
-input_directory = 'Raw_strategic_plans'  
-output_directory = 'preprocessed_texts'  
+input_directory = './data/raw-txt'
+output_directory = './data/tokenized-txt'
 
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
@@ -25,7 +26,8 @@ if not os.path.exists(output_directory):
 def preprocess_text(text):
 
     text = text.lower()
-    text = text.translate(str.maketrans('', '', string.punctuation))
+    #text = text.translate(str.maketrans('', '', string.punctuation))
+    text = "".join(re.findall("[a-z\s]*", text))  # change regex to "[a-z0-9\s]*" to include numbers
     tokens = word_tokenize(text)
     #tokens = [stemmer.stem(word) for word in tokens if word not in stop_words]
     filtered_text = [word for word in tokens if word not in stop_words]
@@ -45,3 +47,4 @@ for filename in os.listdir(input_directory):
         input_path = os.path.join(input_directory, filename)
         output_path = os.path.join(output_directory, filename)
         process_file(input_path, output_path)
+        
