@@ -11,7 +11,7 @@ NOTE: Output is encoded as utf-8
 from pypdf import PdfReader
 import os
 
-input_dir = "C://Users//Rupali//OneDrive//Desktop//Assignments//Text Analytics//Strategic_Plan"
+input_dir = "./data
 output_dir = "./data/raw-txt"
 
 # Create output directory if missing
