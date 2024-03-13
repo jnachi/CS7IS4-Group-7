@@ -6,7 +6,7 @@ import json
 import string
 import nltk
 from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
+#from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 nltk.download('wordnet')
@@ -27,7 +27,7 @@ def preprocess_text(text):
 
     text = text.lower()
     #text = text.translate(str.maketrans('', '', string.punctuation))
-    text = "".join(re.findall("[a-z\s]*", text))  # change regex to "[a-z0-9\s]*" to include numbers
+    text = "".join(re.findall("[a-z0-9\s]*", text))  # change regex to "[a-z0-9\s]*" to include numbers
     tokens = word_tokenize(text)
     #tokens = [stemmer.stem(word) for word in tokens if word not in stop_words]
     filtered_text = [word for word in tokens if word not in stop_words]
