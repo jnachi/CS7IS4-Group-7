@@ -11,7 +11,7 @@ NOTE: Output is encoded as utf-8
 from pypdf import PdfReader
 import os
 
-input_dir = "./data
+input_dir = "./data/pdfs"
 output_dir = "./data/raw-txt"
 
 # Create output directory if missing
