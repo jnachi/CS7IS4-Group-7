@@ -1,6 +1,3 @@
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
 import os
 import json
 import string
@@ -10,13 +7,16 @@ import enchant
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+
 nltk.download('wordnet')
-nltk.download('omw-1.4')
+nltk.download('punkt')
+nltk.download('stopwords')
 
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
-enchant_dict = enchant.Dict("en_US")  # American English dictionary
-enchant_dict.add("en_GB")  # British English dictionary
+
+enchant_dict_us = enchant.Dict("en_US")
+enchant_dict_gb = enchant.Dict("en_GB")
 
 input_directory = './data/raw-txt'
 output_directory = './data/tokenized-txt'
@@ -33,7 +33,7 @@ def preprocess_text(text):
     for word in tokens:
         if word not in stop_words:
             try:
-                if enchant_dict.check(word): 
+                if enchant_dict_us.check(word) or enchant_dict_gb.check(word):
                     filtered_text.append(word)
             except:
                 pass
