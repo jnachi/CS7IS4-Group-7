@@ -1,0 +1,254 @@
+qs_ranking,institution,focus,location,continent,year_established,private_public,type,strategy_start,strategy_end,filename,pdf
+102,University of Wisconsin-Madison ,FC,United States,North America,1848.0,Public,all streams,2023.0,2028.0,1.txt,1.0
+103,The Pontifical Catholic University of Chile,FC,Chile,South America,1888.0,Private,all streams,2020.0,2025.0,2.txt,1.0
+104,The University of Sheffield,FC,United Kingdom,Europe,1905.0,Public,all streams,2021.0,2025.0,3.txt,1.0
+105,Uppsala University,FC,Sweden,Europe,1477.0,Public,all streams,2019.0,,4.txt,1.0
+107,University of Copenhagen,FC,Denmark,Europe,1479.0,Public,all streams,2023.0,2030.0,5.txt,1.0
+118,University of California Davis,FC,United States,North America,1905.0,Public,all streams,2022.0,2032.0,6.txt,1.0
+114,Western University,FC,Canada,North America,1878.0,Public,research,2021.0,2028.0,7.txt,1.0
+115,University of Helsinki,CO,Finland,Europe,1640.0,Public,all streams,2021.0,2030.0,8.txt,0.0
+119,"KIT,Karlsruhe Institute of Technology",CO,Germany,Europe,1825.0,Public,research,,2025.0,9.txt,0.0
+123,The Polytechnic University of Milan,FO,Italy,Europe,1863.0,Public,technological,2023.0,2025.0,10.txt,1.0
+124,Eindhoven University of Technology,FO,Netherlands,Europe,1956.0,Public,technological,2018.0,2030.0,11.txt,1.0
+130,Macquarie University ,FC,Australia,Australia,1964.0,Public,research,2020.0,2024.0,12.txt,1.0
+134,Texas A&M University,FC,United States,North America,1876.0,Public,research,2022.0,2027.0,13.txt,1.0
+134,Sapienza University of Rome,FC,Italy,Europe,1303.0,Public,all streams,2016.0,2021.0,14.txt,1.0
+143,King Abdulaziz University ,FC,Saudi Arabia,Asia,1967.0,Public,all streams,2022.0,2027.0,15.txt,1.0
+148,University of Bath ,CO,United Kingdom,Europe,1966.0,Public,research,2021.0,2026.0,16.txt,1.0
+140,RMIT University,CO,Australia,Australia,1887.0,Public,all streams,2022.0,2031.0,17.txt,1.0
+141,Nanjing University,FC,China,Asia,1902.0,Public ,all streams,2024.0,2026.0,18.txt,1.0
+143,Aarhus University,FC,Denmark,Europe,1928.0,Public,all streams,2020.0,2025.0,19.txt,1.0
+145,Rice University ,FC,United States,North America,1912.0,Private,all streams,2017.0,2027.0,20.txt,1.0
+158,University of Putra Malaysia ,FC,Malaysia,Asia,1931.0,Public,research,2021.0,2025.0,21.txt,0.0
+149,Indian Institute of Technology Bombay,CO,India,Asia,1958.0,Public,technological,2017.0,2022.0,22.txt,1.0
+154,Cardiff University,FC,United Kingdom,Europe,1883.0,Public,all streams,2022.0,2030.0,23.txt,1.0
+159,Ghent University,FC,Belgium,Europe,1817.0,Public,research,,,24.txt,1.0
+162,University of  Wollongong,FC,Australia,Australia,1951.0,Public,all streams,2020.0,2025.0,25.txt,1.0
+151,The Ohio State University,FC,United States,North America,1870.0,Public,all streams,2016.0,2020.0,26.txt,1.0
+164,Kyushu University,FC,Japan,Asia,1911.0,Public,all streams,2021.0,2030.0,27.txt,1.0
+169,University of Maryland,FC,United States,North America,1856.0,Public,all streams,2022.0,,28.txt,1.0
+173,Qatar University ,FC,Qatar,Asia,1973.0,Public,research,2018.0,2023.0,29.txt,1.0
+173,University of Cape Town,FC,South Africa,Africa,1829.0,Public,all streams,2021.0,2030.0,30.txt,1.0
+176,Nagoya University ,FC,Japan,Asia,1939.0,Public,all streams,,2020.0,31.txt,1.0
+180,King Fahd University of Petroleum & Minerals,FC,Saudi Arabia,Asia,1963.0,Public,all streams,2021.0,2030.0,32.txt,0.0
+189,McMaster University,FC,Canada,North America,1887.0,Public,all streams,2021.0,2024.0,33.txt,1.0
+192,Ecole des Ponts ParisTech,FO,France,Europe,1747.0,Public,technological,,,34.txt,0.0
+171,University College Dublin,FC,Ireland,Europe,1854.0,Public,all streams,2021.0,2024.0,35.txt,1.0
+195,University of Minnesota Twin Cities,FC,United States,North America,1851.0,Public,all streams,2021.0,2025.0,36.txt,1.0
+197,Indian Institute of Technology Delhi,CO,India,Asia,1961.0,Public,technological,2020.0,2030.0,37.txt,1.0
+198,University of the Andes Colombia,FC,United States,North America,1948.0,Private,all streams,2021.0,2025.0,38.txt,1.0
+196,Hokkaido University,FC,Japan,Asia,1876.0,Public,all streams,2021.0,2040.0,39.txt,1.0
+199,Waseda University ,CO,Japan,Asia,1882.0,Private,research,2012.0,2032.0,40.txt,0.0
+1,Massachusetts Institute of Technology (MIT) ,CO,United States,North America,1861.0,private,technological,2022.0,,MIT-Strategic-Action-Plan.txt,1.0
+2,University of Cambridge,FC,United Kingdom,Europe,1209.0,public,all streams,,,University-Cambridge-Mission-Vision.txt,0.0
+3,University of Oxford,FC,United Kingdom,Europe,1096.0,public,all streams,2018.0,2024.0,Oxford-Strategic-Plan-2018-24.txt,1.0
+7,ETH Zurich - Swiss Federal Institute of Technology,FO,Switzerland,Europe,1855.0,public,technological,2021.0,2024.0,ETH_SEP_21-24_EN_Web.txt,1.0
+8,National University of Singapore (NUS),FC,Singapore,Asia,1980.0,public,all streams,2019.0,2024.0,nus.txt,1.0
+12,University of Pennsylvania,FC,United States,North America,1740.0,private,all streams,2023.0,,iPaP.txt,1.0
+17,Princeton University,CO,United States,North America,1746.0,private,all streams,2016.0,,princetonstrategicplanframework2016.txt,1.0
+19,The University of Sydney,FC,Australia,Oceania,1850.0,public,all streams,2023.0,2032.0,strategic-plan-2032-final.txt,1.0
+26,"Nanyang Technological University, Singapore (NTU)",FC,Singapore,Asia,1981.0,public,technological,2021.0,2025.0,ntu-2025-strategy.txt,1.0
+26,The University of Hong Kong,FC,Hong Kong SAR,Asia,1887.0,public,all streams,2016.0,2025.0,University-Hong-Kong-2016-2025.txt,0.0
+34,University of British Columbia,FC,Canada,North America,1908.0,public,all streams,2018.0,2028.0,2018_UBC_Strategic_Plan_Full-20180425.txt,1.0
+36,EPFL,FO,Switzerland,Europe,1969.0,public,technological,2021.0,2024.0,LEX-1.1.11.txt,1.0
+37,Technical University of Munich,FO,Germany,Europe,1868.0,public,technological,2021.0,2030.0,TUM-Agenda_2030.txt,1.0
+46,Kyoto University,FC,Japan,Asia,1897.0,public,all streams,,,Kyoto-University_Operations-and-future-plans.txt,0.0
+47,Delft University of Technology,CO,Netherlands,Europe,1842.0,public,technological,2022.0,2024.0,TU-Delft-Strategic-Priorities-2022-EN-200x200mm-v10 web.txt,1.0
+47,The Chinese University of Hong Kong (CUHK),FC,Hong Kong SAR,Asia,1963.0,public,all streams,2021.0,2025.0,strategic-plan-brochure-e.txt,1.0
+53,University of Amsterdam,FC,Netherlands,Europe,1632.0,public,all streams,2021.0,2026.0,inspiring-generation-uva-strategic-plan-uva-2021-2026.txt,1.0
+54,Ludwig-Maximilians-University Munich,FC,Germany,Europe,1472.0,public,all streams,,,LMU-University-of-Excellence.txt,0.0
+56,KAIST - Korea Advanced Institute of Science & Technology,CO,South Korea,Asia,1971.0,public,technological,2018.0,2031.0,KAIST-Vision2031.txt,1.0
+59,Sorbonne University,FC,France,Europe,1257.0,public,all streams,2019.0,2024.0,Sorbonne-Strategic-Plan.txt,0.0
+61,KU Leuven,FC,Belgium,Europe,1425.0,private,all streams,2021.0,2025.0,KU-Leuven-Mission_Strategy.txt,0.0
+65,Universiti Malaya (UM),FC,Malaysia,Asia,1905.0,public,all streams,2021.0,2025.0,Pelan-Strategik-UM-2021-2025.txt,1.0
+68,The University of Auckland,FC,New Zealand,Oceania,1883.0,public,all streams,2020.0,2030.0,taumata-teitei-vision-2030-and-strategic-plan-2025.txt,1.0
+69,National Taiwan University (NTU),FC,Taiwan,Asia,1928.0,public,all streams,,,National-Taiwan-University-ORD.txt,0.0
+70,City University of Hong Kong,CO,Hong Kong SAR,Asia,1984.0,public,all streams,2020.0,2025.0,SP_Booklet.txt,1.0
+71,Université Paris-Saclay,CO,France,Europe,2019.0,public,all streams,2023.0,,universite_paris-saclay_scientific_framework.txt,1.0
+73,Brown University,FC,United States,North America,1764.0,private,all streams,2013.0,2023.0,BuildingOnDistinctionOct262013.txt,1.0
+73,KTH Royal Institute of Technology ,CO,Sweden,Europe,1827.0,public,technological,2024.0,2028.0,KTH_Vision_Mal_EN.txt,1.0
+79,Korea University,FC,South Korea,Asia,1905.0,private,all streams,2020.0,2021.0,Korea_University_SDG.txt,1.0
+80,Osaka University,FC,Japan,Asia,1724.0,public,all streams,2021.0,,Osaka-University-Vision-2021.txt,0.0
+81,"Trinity College Dublin, The University of Dublin",FC,Ireland,Europe,1592.0,public,all streams,2020.0,2025.0,trinity-strategy.txt,1.0
+84,University of Birmingham,FC,United Kingdom,Europe,1825.0,public,all streams,2020.0,2030.0,birmingham-2030-strategic-framework-accessible.txt,1.0
+85,Lund University,FC,Sweden,Europe,1666.0,public,all streams,2017.0,2026.0,Lund-University_strategic-plan.txt,0.0
+87,Ruprecht-Karls-University Heidelberg,FO,Germany,Europe,1386.0,public,all streams,2022.0,2026.0,Heidelberg-University-Strategic-Growth-Action-Plan-2022-2026.txt,1.0
+91,Tokyo Institute of Technology (Tokyo Tech),CO,Japan,Asia,1881.0,public,technological,2018.0,2023.0,Tokyo-Tech-strategic-plan-2018.txt,0.0
+91,University of Zurich,FC,Switzerland,Asia,1833.0,public,all streams,2019.0,,UZH_Strategic_Principles.txt,1.0
+95,University of St Andrews,FO,United Kingdom,Europe,1413.0,public,all streams,2022.0,2027.0,university-strategy-2022-2027.txt,1.0
+97,Georgia Institute of Technology,,United States,North America,1885.0,public,technological,2020.0,2030.0,georgia-tech-strategic-plan-2020-2030.txt,1.0
+98,Freie Universitaet Berlin,FC,Germany,Europe,1948.0,public,all streams,2021.0,2025.0,Strategiepapier_FU_2025_deutsch_english_final_korr.txt,1.0
+100,Pohang University of Science And Technology (POSTECH),FO,South Korea,Asia,1986.0,private,technological,2019.0,,POSTECH-Vision.txt,0.0
+505,Macau University of Science and Technology,CO,Macau SAR,Asia,1950.0,Public,all streams,2021.0,2025.0,Macau University of Science and Technology.txt,0.0
+505,UniversitÃ Â Cattolica del Sacro Cuore,FO,Italy,Europe,1920.0,Private,all streams,2023.0,2025.0,Università Sacro Cuore.txt,1.0
+505,Oregon State University,CO,United States,North America,1900.0,Public,all streams,2024.0,2030.0,Oregon State University.txt,1.0
+511,SOAS University of London ,SP,United Kingdom,Europe,1920.0,Private,all streams,2021.0,2025.0,SOAS University of London.txt,1.0
+514,Duy Tan University,CO,Vietnam,Asia,1950.0,Public,all streams,2021.0,2025.0,Duy Tan University.txt,0.0
+524,The University of Georgia,FC,United States,North America,1900.0,Public,all streams,2024.0,2025.0,The University of Georgia.txt,1.0
+520,Kyungpook National University,FC,South Korea,Asia,1946.0,Public,all streams,2024.0,2025.0,Kyungpook National University.txt,0.0
+525,Universiti Teknologi Brunei,FO,Brunei,Asia,1986.0,Public,technological,2024.0,2028.0,Universiti Teknologi Brunei.txt,1.0
+526,Sabanci University,CO,Turkey,Asia,1999.0,Private,all streams,2023.0,2028.0,Sabanci University.txt,0.0
+526,University of Madras,CO,India,Asia,1857.0,Public,all streams,2023.0,2024.0,University of Madras.txt,1.0
+530,University of Genoa,FC,Italy,Europe,1920.0,Private,all streams,2022.0,2026.0,University of Genoa.txt,1.0
+534,China Agricultural University ,FC,China (Mainland),Asia,1905.0,Public,all streams,2023.0,2024.0,China Agricultural University .txt,0.0
+534,University of Crete,FC,Greece,Europe,1973.0,Public,all streams,2018.0,2025.0,University of Crete.txt,1.0
+540,Lahore University of Management Sciences (LUMS),CO,Pakistan,Asia,1984.0,Private,Business,2022.0,2024.0,Lahore University of Management Sciences (LUMS).txt,1.0
+540,Universidad Nacional de La Plata (UNLP),FC,Argentina,South America,1897.0,Public,all streams,2022.0,2026.0,Universidad Nacional de La Plata (UNLP).txt,1.0
+542,University Ulm,FO,Germany,Europe,1967.0,Public,technological,2022.0,2027.0,University Ulm.txt,1.0
+544,Universidad de Costa Rica,CO,Costa Rica,North America,1940.0,Public,all streams,2021.0,2025.0,Universidad de Costa Rica.txt,1.0
+545,Singapore Management University,SP,Singapore,Asia,2000.0,Public,Business,2020.0,2025.0,Singapore Management University.txt,1.0
+523,University of Hull,FC,United Kingdom,Europe,1927.0,Public,all streams,2023.0,2030.0,University of Hull.txt,1.0
+548,University of Eastern Finland,CO,Finland,Europe,2010.0,Public,all streams,2023.0,2030.0,University of Eastern Finland.txt,1.0
+551,Hasselt University ,FO,Belgium,Europe,1971.0,Public,technological,2022.0,2026.0,Hasselt University.txt,1.0
+551,Canadian University Dubai,FO,United Arab Emirates,Asia,2006.0,Private,all streams,2023.0,2024.0,Canadian University Dubai.txt,0.0
+556,Renmin (People's) University of China,FO,China (Mainland),Asia,1937.0,Public,all streams,2023.0,2024.0,Renmin (People's) University of China.txt,0.0
+556,INTI International University,FO,Malaysia,Asia,1986.0,Private,all streams,2023.0,2024.0,INTI International University.txt,0.0
+556,"University of Chemistry and Technology, Prague",FO,Czech Republic,Europe,1952.0,Public,technological,2021.0,2024.0,"University of Chemistry and Technology, Prague.txt",1.0
+563,UniversitÃ© de Fribourg,CO,Switzerland,Europe,1889.0,Public,all streams,2023.0,2030.0,Université de Fribourg.txt,1.0
+567,Bond University,FO,Australia,Australia,1889.0,Private,all streams,2023.0,2027.0,Bond University.txt,1.0
+567,University of Huddersfield,CO,United Kingdom,Europe,1825.0,Public,all streams,2023.0,2025.0,University of Huddersfield.txt,1.0
+567,Universidad Adolfo IbÃ¡Ã±ez,FO,Chile,South America,1953.0,Private,Business,2023.0,2024.0,Universidad Adolfo Ibáñez.txt,1.0
+571,Warsaw University of Technology,FO,Poland,Europe,1826.0,Public,technological,2023.0,2030.0,Warsaw University of Technology.txt,1.0
+571,Indian Institute of Technology (BHU) Varanasi,FO,India,Asia,1919.0,Public,technological,2023.0,2024.0,Indian Institute of Technology (BHU) Varanasi.txt,0.0
+575,HUFS - Hankuk (Korea) University of Foreign Studies ,CO,South Korea,Asia,1954.0,Private,all streams,2023.0,2024.0,HUFS,0.0
+580,University of Klagenfurt,FO,Austria,Europe,1970.0,Public,all streams,2023.0,2024.0,University of Klagenfurt.txt,0.0
+582,Applied Science University - Bahrain,FO,Bahrain,Asia,2004.0,Private,all streams,2020.0,2025.0,Applied Science University - Bahrain.txt,1.0
+582,Universidad CatÃ³lica Andres Bello,FO,Venezuela,South America,1953.0,Private,all streams,2023.0,2024.0,Andres Bello Catholic University.txt,1.0
+582,Universidad Pontificia Comillas,FO,Spain,Europe,1890.0,Private,all streams,2023.0,2024.0,Universidad Pontificia Comillas.txt,1.0
+586,"University of Missouri, Columbia",FC,United States,North America,1839.0,Public,all streams,2023.0,2024.0,"University of Missouri, Columbia.txt",1.0
+590,Prince Mohammad Bin Fahd university,SP,Saudi Arabia,North America,2006.0,Private,all streams,2017.0,2024.0,Prince Mohammad Bin Fahd university.txt,1.0
+595,UniversitÃ  Vita-Salute San Raffaele,SP,Italy,Europe,1996.0,Private,all streams,2019.0,2022.0,University Vita-Salute San Raffaele.txt,1.0
+600,UniversitÃ¤t des Saarlandes,FC,Germany,Europe,1948.0,Public,all streams,2023.0,2030.0,Saarland University des Saarlandes.txt,1.0
+202,Queen's University Belfast,FC,United Kingdom,Europe,1845.0,public,all,2021.0,2030.0,202 Queen's University Belfast.txt,1.0
+203,King Saud University,FC,Saudi Arabia,Asia,1957.0,public,all,2022.0,2027.0,203 King Saud University.txt,1.0
+203,University of Ottawa,FC,Canada,North America,1848.0,public,all,2020.0,2030.0,203 University of Ottawa.txt,1.0
+205,Universitt Hamburg,FC,Germany,Europe,1919.0,public,all,2023.0,2027.0,205 Universitat Hamburg.txt,1.0
+206,University of Otago,FC,New Zealand,Oceania,1869.0,public,all,2022.0,2030.0,206 University of Otago.txt,1.0
+209,Queen's University at Kingston,FC,Canada,North America,1841.0,public,all,2018.0,2023.0,209 Queen's University at Kingston.txt,1.0
+211,Chulalongkorn University,FC,Thailand,Asia,1917.0,public,all,2021.0,2024.0,211 Chulalongkorn University.txt,0.0
+212,Loughborough University,CO,United Kingdom,Euroope,1909.0,public,technological,2020.0,2040.0,212 Loughborough University.txt,1.0
+214,Keio University,FC,Japan,Asia,1858.0,private,all,2014.0,2024.0,214 Keio University.txt,1.0
+215,Tel Aviv University,FC,Israel,Asia,1956.0,public,all,2021.0,2022.0,215 Tel Aviv University.txt,0.0
+218,University of Sussex,FC,United Kingdom,Europe,1961.0,public,all,2024.0,2025.0,218 University of Sussex.txt,0.0
+220,University of Lausanne,FO,Switzerland,Europe,1537.0,public,all,2021.0,2024.0,220 University of Lausanne.txt,1.0
+222,Radboud University ,FC,Netherlands,Europe,1923.0,public,all,2019.0,2019.0,222 Radboud University.txt,0.0
+225,Indian Institute of Science,SP,India,Asia,1909.0,public,science,2024.0,2024.0,225 Indian Institute of Science.txt,0.0
+226,American University of Beirut (AUB),FC,Lebanon,Asia,1866.0,private,all,2020.0,2030.0,226 American University of Beirut.txt,1.0
+232,University of GÃ¶ttingen,FC,Germany,Europe,1734.0,public,all,2014.0,2024.0,232 University of Gttingen.txt,1.0
+235,Heriot-Watt University,CO,United Kingdom,Europe,1821.0,public,all,2019.0,2025.0,235 Heriot-Watt University.txt,1.0
+236,UniversitÃ© de Paris-CitÃ©,FO,France,Europe,,public,all,2021.0,2024.0,236 University de Paris.txt,1.0
+241,Victoria University of Wellington,CO,New Zealand,Oceania,1897.0,public,technological,2020.0,2024.0,241 Victoria University of Wellington.txt,1.0
+242,La Trobe University,CO,Australia,Oceania,1964.0,public,all,2020.0,2030.0,242 La Trobe University.txt,1.0
+243,Griffith University,FC,Australia,Oceania,1971.0,public,all,2020.0,2025.0,243 Griffith University.txt,1.0
+246,Technical University of Darmstadt,FO,Germany,Europe,1877.0,public,technological,2022.0,2025.0,246 Technical University of Darmstadt.txt,1.0
+248,Charles University,FC,Czech Republic,Europe,1348.0,public,all,2021.0,2025.0,248 Charles University.txt,1.0
+248,University of Antwerp,FC,Belgium,Europe,1852.0,public,all,2021.0,2025.0,248 University of Antwerp.txt,1.0
+252,Politecnico di Torino,FO,Italy,Europe,1859.0,public,technological,2018.0,2024.0,252 Politecnico di Torino.txt,1.0
+254,University of Macau,FO,Macau SAR,Asia,1981.0,public,all,2021.0,2025.0,254 University of Macau.txt,1.0
+256,University of Canterbury | Te Whare WÄnanga o Waitaha,CO,New Zealand,Oceania,1873.0,public,all,2020.0,2030.0,256 University of Canterbury.txt,1.0
+256,Maastricht University ,FO,Netherlands,Europe,1976.0,public,all,2022.0,2026.0,256 Maastricht University .txt,1.0
+262,University of Warsaw ,CO,Poland,Europe,1816.0,public,all,2023.0,2032.0,262 University of Warsaw.txt,1.0
+264,University of Colorado Boulder,CO,United States,North America,1876.0,public,technological,2021.0,2026.0,264 University of Colorado Boulder.txt,1.0
+266,Deakin University,FC,Australia,Oceania,1974.0,public,all,2021.0,2030.0,266 Deakin University.txt,1.0
+274,North Carolina State University,CO,United States,North America,1887.0,public,technological,2021.0,2030.0,274 North Carolina State University,1.0
+276,University of Milan,FC,Italy,Europe,1924.0,public,all,2022.0,2024.0,276 University of Milan.txt,1.0
+278,Indian Institute of Technology Kanpur (IITK),CO,India,Asia,1959.0,public,technological,2018.0,2022.0,278 Indian Institute of Technology Kanpur.txt,1.0
+283,Stellenbosch University,FC,South Africa,Africa,1918.0,public,all,2019.0,2040.0,283 Stellenbosch University.txt,1.0
+284,Taylor's University,FO,Malaysia,Asia,1969.0,private,all,2023.0,2024.0,284 Taylor's University.txt,1.0
+292,University College Cork,FC,Ireland,Europe,1845.0,public,all,2023.0,2028.0,292 University College Cork.txt,1.0
+294,UniversitÃ© Grenoble Alpes,FC,France,Europe,2016.0,public,all,2021.0,2024.0,294 University Grenoble Alpes.txt,1.0
+295,University of East Anglia,FC,United Kingdom,Europe,1963.0,public,all,2021.0,2030.0,295 University of East Anglia.txt,1.0
+300,UCSI University,CO,Malaysia,Asia,1986.0,private,all,2022.0,2025.0,300 UCSI University.txt,1.0
+400,Iowa State University,CO,United States,North America,1858.0,Public,Science,2022.0,2031.0,lowa state university.txt,1.0
+400,Masaryk University,CO,Czech Republic,Europe,1919.0,Public,All,2021.0,2028.0,Masaryk University,1.0
+400,Universidade Nova de Lisboa,FC,Portugal,Europe,1973.0,Public,All,2020.0,2030.0,Universidade Nova de Lisboa,1.0
+403,University of Granada,FC,Spain,Europe,1531.0,Public,All,2023.0,2031.0,University of Granada,1.0
+404,Istanbul Technical University,FO,Turkey,Europe,1773.0,Public,Science,2022.0,2026.0,Istanbul Technical University,1.0
+404,"University of California, Riverside",FC,United States,North America,1954.0,Public,All,2023.0,2030.0,"University of California, Riverside",1.0
+404,University of the Philippines,FC,Philippines,Asia,1908.0,Public,All,2023.0,2030.0,University of the Philippines,1.0
+407,Auckland University of Technology (AUT),CO,New Zealand,Australia,1987.0,Public,Science,2023.0,2025.0,Auckland University of Technology (AUT),1.0
+410,University of Southern Queensland ,CO,Australia,Australia,1967.0,Public,All,2021.0,2025.0,University of Southern Queensland.txt,1.0
+413,Oxford Brookes University,CO,United Kingdom,Europe,1865.0,Public,All,2023.0,2035.0,Oxford Brookes University,1.0
+413,Royal Holloway University of London,CO,United Kingdom,Europe,1849.0,Public,All,2021.0,2024.0,Royal Holloway University of London,1.0
+415,The American University in Cairo,CO,Egypt,Africa,1919.0,Private,All,2019.0,2022.0,The American University in Cairo,1.0
+419,Washington State University,FC,United States,North America,1890.0,Public,All,2020.0,2025.0,Washington State University,1.0
+421,Université de Strasbourg,FC,France,Europe,1538.0,Public,All,2023.0,2030.0,Université de Strasbourg,1.0
+421,University of Canberra ,CO,Australia,Australia,1967.0,Public,All,2023.0,2032.0,University of Canberra,1.0
+426,University of Limerick,FC,Ireland,Europe,1972.0,Public,All,2023.0,2028.0,University of Limerick,1.0
+427,Anna University,FO,India,Asia,1978.0,Public,All,2022.0,2025.0,Anna University,1.0
+431,Koç University,FC,Turkey,Europe,1993.0,Private,All,2020.0,2024.0,Koç University,1.0
+431,Murdoch University,CO,Australia,Australia,1973.0,Public,All,2023.0,2030.0,Murdoch Strategic Plan 2023-2030.txt,1.0
+431,National Taipei University of Technology,FO,Taiwan,Asia,1912.0,Public,Science,2020.0,2025.0,National Taipei University of Technology,1.0
+431,University of Stirling,CO,United Kingdom,Europe,1967.0,Public,All,2016.0,2021.0,University of Stirling(old).txt,1.0
+436,Dublin City University,FC,Ireland,Europe,1975.0,Public,All,2023.0,2028.0,Dublin City University,1.0
+436,Tampere University,FC,Finland,Europe,2019.0,Public,All,2023.0,2030.0,Tampere University,1.0
+436,University of Science and Technology Beijing,CO,China (Mainland),Asia,1952.0,Public,Science,2021.0,2025.0,University of Science and Technology Beijing,1.0
+436,University of St.Gallen (HSG),SP,Switzerland,Europe,1898.0,Public,All,2021.0,2025.0,University of St.Gallen (HSG),1.0
+441, University of Dundee,FC,United Kingdom,Europe,1967.0,Public,All,2022.0,2027.0,University of Dundee.txt,1.0
+441,Université Laval,FC,Canada,North America,1852.0,Public,All,2017.0,2022.0,Université Laval,1.0
+441,University of Utah,FC,United States,North America,1850.0,Public,All,2023.0,2030.0,University of Utah,1.0
+444,University of Connecticut,FC,United States,North America,1881.0,Public,All,2024.0,2034.0,University of Connecticut,1.0
+446,Aston University,CO,United Kingdom,Europe,1895.0,Public,All,2018.0,2023.0,Aston University,1.0
+446,"The University of Tennessee, Knoxville",FC,United States,North America,1794.0,Public,All,2023.0,2026.0,"The University of Tennessee, Knoxville",1.0
+452,Central South University,FC,China (Mainland),Asia,2000.0,Public,Science,2023.0,2028.0,Central South University,1.0
+454,Czech Technical University in Prague,SP,Czech Republic,Europe,1707.0,Public,All,2021.0,2030.0,Czech Technical University in Prague,1.0
+454,Indian Institute of Technology Indore (IIT Indore),FO,India,Asia,2009.0,Public,All,,,Indian Institute of Technology Indore (IIT Indore),1.0
+454,Sultan Qaboos University,FC,Oman,Asia,1986.0,Public,All,2021.0,2025.0,Sultan Qaboos University,1.0
+454,Universität Mannheim,FO,Germany,Europe,1967.0,Public,All,2023.0,2028.0,Universität Mannheim,1.0
+459,"Essex, University of",CO,United Kingdom,Europe,1965.0,Public,All,2019.0,2028.0,"Essex, University of",1.0
+460,Universität Potsdam,FO,Germany,Europe,1991.0,Public,All,,,Universität Potsdam,1.0
+461,Florida State University,FC,United States,North America,1851.0,Public,All,2023.0,2027.0,Florida State University,1.0
+465,Colorado School of Mines,FO,United States,North America,1874.0,Public,All,,,Colorado School of Mines,1.0
+465,Umea University,FC,Sweden,Europe,1965.0,Public,All,2023.0,2025.0,Umea University,1.0
+465,University of Bordeaux,FO,France,Europe,1441.0,Public,All,2021.0,2030.0,University of Bordeaux,1.0
+465,University of Sharjah,CO,United Arab Emirates,Asia,1997.0,Private,All,2019.0,2024.0,University of Sharjah,1.0
+469,Illinois Institute of Technology,CO,United States,North America,1890.0,Private,All,2020.0,2025.0,Illinois Institute of Technology,1.0
+472,Hiroshima University,FC,Japan,Asia,1929.0,Public,All,,,Hiroshima University,1.0
+473,Vilnius University ,FC,Lithuania,Europe,1579.0,Public,All,2021.0,2025.0,Vilnius University.txt,1.0
+480,Missouri University of Science and Technology,CO,United States,North America,1870.0,Public,All,,,Missouri University of Science and Technology,1.0
+481,Bangor University,FC,United Kingdom,Europe,1884.0,Public,All,2020.0,2030.0,Bangor University,1.0
+481,Hitotsubashi University,SP,Japan,Asia,1920.0,Public,All,2017.0,2027.0,Hitotsubashi University,1.0
+486,University of Guelph,CO,Canada,North America,1964.0,Public,All,2023.0,2028.0,University of Guelph,1.0
+491,University at Buffalo SUNY,FC,United States,North America,1846.0,Public,All,2022.0,2026.0,University at Buffalo SUNY,1.0
+491,University of Iowa,FC,United States,North America,1847.0,Public,All,2022.0,2027.0,University of Iowa,1.0
+494,Universidad de Sevilla,FC,Spain,Europe,1505.0,Public,All,2018.0,2025.0,Universidad de Sevilla,1.0
+498,University of Delaware,CO,United States,North America,1743.0,Private,All,2020.0,2030.0,University of Delaware,1.0
+302,Virginia Polytechnic Institute and State University,FC,United States,North america,1872.0,public,All,2023.0,2023.0,The Virginia Tech,1.0
+304,Jagiellonian University,FC,Poland,Europe,1364.0,public,All,2023.0,2030.0,Jagiellonian University,1.0
+306,University of Johannesburg,CO,South Africa,Africa,2005.0,public,All,2020.0,2025.0,University of Johannesburg,1.0
+307,Swansea University,FC,United Kingdom,Europe,1920.0,public,All,2020.0,2024.0,Swansea University,1.0
+310,Universitat Pompeu Fabra (Barcelona),FO,Spain,Europe,1990.0,public,All,2016.0,2025.0,Pompeu Fabra University  (UPF).txt,0.0
+310,Hamad Bin Khalifa University,FO,Qatar,Asia,2010.0,public,All,2016.0,2026.0,hbku,1.0
+312,Universität Stuttgart,CO,Germany,Europe,1829.0,public,All,2016.0,2016.0,university of stuttgart,1.0
+323,University of Pretoria,FC,South Africa,Africa,1930.0,public,All,2011.0,2025.0,University of Pretoria,1.0
+326,University of Southern Denmark (SDU),CO,Denmark,Europe,1998.0,public,All,2022.0,2026.0,University of Southern Denmark (SDU),1.0
+326,University of South Australia,CO,Australia,Oceania,1991.0,public,All,2018.0,2025.0,University of South Australia,1.0
+328,USI - UniversitÃ  della Svizzera italiana,FO,Switzerland,Europe,1996.0,public,All,2021.0,2024.0,USI-Universita della Svizzera italiana.txt,1.0
+332,"University of California, Santa Cruz",CO,United States,North America,1965.0,public,All,2023.0,2025.0,"University of California, Santa Cruz",1.0
+336,Aalborg University,FC,Denmark,Europe,1974.0,public,All,2016.0,2021.0,Aalborg University,1.0
+336,Middle East Technical University,CO,Turkey,Asia,1956.0,public,All,2023.0,2027.0,Middle East Technical University,1.0
+336,University of Kent,CO,United Kingdom,Europe,1965.0,public,All,2023.0,2025.0,University of Kent,1.0
+349,Universidad PolitÃ©cnica de Madrid (UPM),SP,Spain,Europe,1971.0,public,All,2022.0,2022.0,UNIVERSIDAD POLITÉCNICA DE MADRID,1.0
+351,Lappeenranta-Lahti University of Technology LUT,SP,Finland,Europe,1969.0,public,All,2024.0,2030.0,LUT University,0.0
+351,University of Coimbra,FC,Portugal,Europe,1290.0,public,All,2019.0,2023.0,University of Coimbra,1.0
+353,York University,CO,Canada,North America,1959.0,public,All,2023.0,2028.0,YorkUniversity.txt,1.0
+355,L.N. Gumilyov Eurasian National University (ENU),FO,Kazakhstan,Asia,1996.0,public,All,2020.0,2020.0,L.N. Gumilyov Eurasian National University.txt,1.0
+364,American University of Sharjah,CO,United Arab Emirates,Asia,1997.0,private,All,2018.0,2022.0,American University of Sharjah,1.0
+364,Indian Institute of Technology Guwahati (IITG),CO,India,Asia,1994.0,public,All,2022.0,2023.0,Indian Institute of Technology Guwahati (IITG),1.0
+367,National University of Sciences And Technology (NUST) Islamabad,CO,Pakistan,Asia,1991.0,public,Science and technology,2019.0,2023.0,National University of Sciences And Technology (NUST) Islamabad,1.0
+368,University of Cyprus (UCY),CO,North cyprus,Cyrups,1989.0,public,All,2021.0,2025.0,University of cyprus.txt,1.0
+369,Indian Institute of Technology Roorkee (IITR),FO,India,Asia,1847.0,public,"Engineering, technology, and sciences",2023.0,2023.0,INDIAN INSTITUTE OF TECHNOLOGY ROORKEE.txt,1.0
+371,Cairo University,FC,Egypt,Africa,1908.0,public,All,2021.0,2021.0,Cairo University,1.0
+371,Tilburg University,FO,Netherlands,Europe,1927.0,public,All,2021.0,2027.0,Tillburg university.txt,1.0
+374,"Birkbeck, University of London",FO,United Kingdom,Europe,1920.0,public,All,2021.0,2026.0,"Birkbeck, University of London",0.0
+375,Northeastern University,CO,United States,North America,1898.0,private,All,2015.0,2019.0,Northeastern University,1.0
+375,Western sydney university,AU,Australia,Oceania,1989.0,public,All,2021.0,2026.0,Western sydney university,0.0
+380,Flinders University,FC,Australia,Oceania,1966.0,public,All,2023.0,2025.0,Flinders University,1.0
+381,University of Luxembourg,CO,Luxembourg,Europe,2003.0,public,All,2023.0,2023.0,University of Luxembourg,0.0
+382,Mahidol University,FC,Thailand,Asia,1888.0,public,All,2023.0,2027.0,Mahidol University,1.0
+382,Université de Montpellier,FO,France,Europe,1289.0,public,All,2022.0,2024.0,Université de Montpellier,0.0
+387,Belarusian State University,FO,Belarus,Europe,1921.0,public,All,2011.0,2015.0,Belarusian State University,1.0
+392,Institut National des Sciences AppliquÃ©es de Lyon (INSA),FO,France,Europe,1957.0,public,All,2023.0,2023.0,Institut National des Sciences AppliquÃ©es de Lyon (INSA),1.0
+392,South China University of Technology,CO,China (Mainland),Asia,1952.0,public,All,2023.0,2023.0,South China University of Technology,1.0
+396,Justus-Liebig-University Giessen,FC,Germany,Europe,1607.0,public,All,2024.0,2025.0,Justus-Liebig-University Giessen,1.0
+399,HSE University,FO,Russia,Europe,1992.0,public,All,2020.0,2024.0,HSE University,1.0
